@@ -1,0 +1,28 @@
+
+
+[
+    {
+      "title": "Nxt Trendz",
+      "imageSrc": "https://i.ibb.co/f9RB7rz/nxt-trendz-cart-features-output.gif",
+      "description": "Created a modern e-commerce experience with a design inspired by Amazon and Flipkart",
+      "skills": ["React" , "CSS","Routing", "Local Storage", "JWT Token"],
+      "demo": "http://shoppingtrnz.ccbp.tech/",
+      "source": "https://github.com/Sandeepraj97/nxtTrends"
+    },
+    {
+      "title": "Todos Application",
+      "imageSrc": "https://i.ibb.co/QmGHrD8/simple-todos-output.gif",
+      "description": "Displayed list of todos with HTML list elements, styled todo list using,React,State Management,CSS, Implemented todo crud operations",
+      "skills": ["React", "Hooks", "CSS","Props"],
+      "demo": "https://flourishing-florentine-0a3455.netlify.app",
+      "source": "https://github.com/Sandeepraj97/todo-list"
+    },
+    {
+      "title": "Food Munch",
+      "imageSrc": "https://i.ibb.co/3C5wzC4/foodApp.jpg",
+      "description": "Discover the world of food with this responsive website that showcases a comprehensive list of food items.Designed with a user-centric approach, this website features HTML structure elements and Bootstrap components to ensure a seamless experience",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://fooddelivery01.ccbp.tech/",
+      "source": ""
+    }
+  ]

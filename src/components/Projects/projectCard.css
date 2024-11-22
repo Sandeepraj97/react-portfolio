@@ -1,0 +1,77 @@
+
+.projectcard-container{
+    display: flex;
+    flex-direction: row;
+    
+    border-radius: 10px;
+    background: linear-gradient(180deg, #859cfa 0%, #132a53 100%);
+    box-sizing: 0 16px 14px 0 #04152d;
+    padding: 18px 18px;
+   
+
+}
+
+.card-cointainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 350px;
+    height: 600px;
+}
+
+.product-image{
+    margin-bottom: 16px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.projectcard-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.projectcard-description{
+    margin-top: 6px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #ece2cc;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.skills{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px;
+    list-style: none;
+}
+
+.projectcard-skill{
+    font-size: 20px;
+    font-weight: 400;
+    background: var(--color-dark);
+    padding: 2px 5px;
+    color: #ece2cc;
+    font-weight: 400;
+}
+
+.projectcard-links{
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.projectcard-link{
+    text-decoration: none;
+    color: #968c8c;
+    font-size: 20px;
+    font-weight: 600px;
+    border-radius: 100px;
+    background: var(--color-primary);
+    padding: 1px 22px;
+}
